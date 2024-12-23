@@ -19,5 +19,3 @@ A Pokédex is a device which holds information about Pokémons.
 
 `$ python3 main.py`
 
-## Acknowledgments
-I would like to give credits to [Codédex](https://www.codedex.io/), their platform helped me to build the habit that made me build this project.
